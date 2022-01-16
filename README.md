@@ -1,2 +1,2 @@
-# Tickers-Database
-Database of american and brazilian stocks tickers
+# Tickers Database
+Database of american (NYSE, NASDAQ and S&P500) and brazilian (B3) stocks tickers
